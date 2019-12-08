@@ -1,0 +1,26 @@
+{
+  "name": "sirla_chatbot",
+  "version": "1.0.0",
+  "description": "sirla聊天機器人",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIRLA-FJULIS/Sirla_Chatbot.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jquery": "^3.4.1",
+    "linebot": "^1.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/SIRLA-FJULIS/Sirla_Chatbot/issues"
+  },
+  "homepage": "https://github.com/SIRLA-FJULIS/Sirla_Chatbot#readme",
+  "keywords": []
+}
